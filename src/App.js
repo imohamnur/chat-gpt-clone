@@ -8,7 +8,7 @@ function App() {
   const [inputValue, setInputValue] = useState("");
   const [aiResponse, setAiResponse] = useState(null);
 
-  const apiKey = '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'
+  const apiKey = //INSERT API KEY HERE
 
   const handleSubmit = async (e) => {
     e.preventDefault()
